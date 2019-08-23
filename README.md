@@ -1,31 +1,30 @@
-# README
-## ASPECTOS TÉCNICOS
+## README
+# ASPECTOS TÉCNICOS
 
-<p align="center"><img src="https://siigonube.siigo.com/ISIIGO/Images/Portals/Siigo-Contador-Nube-Logo.png" width="250"></p>
+<p align="center"><img src="https://www.siigo.com/wp-content/uploads/2019/05/Logo-Siigo.png" width="250"></p>
 
-#### Script de control para crear un SP que se usa para obtener las conexiones de los clientes.
-####   
-**Fecha**					31/07/2019
-**Creado Por**				@SIIGO/GOME109070				
-####  
-**Actividad a Realizar**	Adicionar la siguiente configuración en app.config.json que se encuentra en assets/data de la aplicación Web:
+### Script de control para crear un SP que se usa para obtener las conexiones de los clientes.
+-**Fecha**					31/07/2019
+-**Creado Por**				Camilo Gomez				
+##### Actividad a Realizar  
+ Adicionar la siguiente configuración en app.config.json que se encuentra en assets/data de la aplicación Web:
   {
     "apiName": "WorkFlowService",
     "apiUrl": "http://localhost:8671/WorkFlow/api/",
     "version": "v1"
   }
 STAGE
+####  
+-**Tarea**					[4176](https://dev.azure.com/SiigoDevOps/Siigo/_workitems/edit/4716)
+-**QA** 						[x]dev [x]stage []master
+-**ISIIGO2** 				[x]master
+-**ISIIGO3** 				[x]master
+-**DEMOS** 					[X]master
+-**DEMOSBASE** 				[X]master
+-**DIVULGACION ACADEMICA**	[X]master
+-**SENA**	 				[X]master
+####  
 
-####  
-**Tarea**					[4176](https://dev.azure.com/SiigoDevOps/Siigo/_workitems/edit/4716)
-**QA** 						[x]dev [x]stage []master
-**ISIIGO2** 				[x]master
-**ISIIGO3** 				[x]master
-**DEMOS** 					[X]master
-**DEMOSBASE** 				[X]master
-**DIVULGACION ACADEMICA**	[X]master
-**SENA**	 				[X]master
-####  
 
 
 #### Script de control para crear un SP que se usa para obtener las conexiones de los clientes.
