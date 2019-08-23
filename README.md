@@ -285,3 +285,33 @@ Copiar archivo PayrollBankConfig10524.json a templates DEV
 - **SENA**
   - [ ] master
 ### FIN
+
+### Nuevo archivo en el proceso (fix)
+- **Fecha**			    23/08/2019
+- **Tarea**				
+- **Creado Por**		Andres Ruiz
+### Actividad a Realizar
+Es necesario ajustar al atualizar 
+
+Ajustar  rutas de apis de a ambiente de stage. 
+ <add key="CloudAuthenticationAPI" value="http://co076nt35:8681/CloudAuthentication/api/" />
+ <add key="ACDocumentAPI" value="http://co076nt35:8681/ACDocument/api/v1/" />
+ <add key="ACGeneralAPI" value="http://co076nt35:8681/ACGeneral/api/v1/" />
+### Despliegues
+- **QA** 			              
+  - [x] dev
+  - [ ] stage 
+  - [ ] master
+- **ISIIGO2**
+  - [ ] master
+- **ISIIGO3**
+  - [ ] master
+- **DEMOS**
+  - [ ] master
+- **DEMOSBASE**
+  - [ ] master
+- **DIVULGACION ACADEMICA**
+  - [ ] master
+- **SENA**
+  - [ ] master
+### FIN
