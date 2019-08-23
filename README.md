@@ -11,20 +11,46 @@
 Ejecutar el script de control 01.01.80
 
 - **Tarea**			[4176](https://dev.azure.com/SiigoDevOps/Siigo/_workitems/edit/4716)
-- **QA** 			              
+<TABLE>
+<TR>
+  <TD>
+- **QA**
+  </TD>
+  <TD> 
   - [x] dev
   - [x] stage 
   - [ ] master
+  </TD>
+  </TR>
+  <TR>
+  <TD>
 - **ISIIGO2**
-  - [x] master
+   - [x] master
+  </TD>
+  <TD>  
 - **ISIIGO3**
   - [x] master
+   </TD>
+  </TR>
+  <TR>
+  <TD>
 - **DEMOS**
   - [x] master
+  </TD>
+  <TD>
 - **DEMOSBASE**
   - [x] master
+    </TD>
+  </TR>
+  <TR>
+  <TD>
 - **DIVULGACION ACADEMICA**
   - [x] master
+    </TD>
+    <TD> 
 - **SENA**
   - [x] master
+  </TD>
+  </TR>
+  </TABLE>
 ### FIN  
